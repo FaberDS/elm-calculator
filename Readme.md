@@ -1,5 +1,6 @@
 # Elm Calculator
 
+## Setup
 ```
 elm init
 ```
@@ -8,7 +9,6 @@ elm init
 ```
 elm make src/Main.elm --output elm.js
 ```
-
 - use the elm.js in the index.html as you need it
 
 ## Application
