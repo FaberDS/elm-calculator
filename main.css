@@ -28,11 +28,13 @@ body {
     display: flex;
     flex-direction: column;
 }
-
+#result div{
+    display: flex;
+    justify-content: space-between;
+ }
 #result {
     width: 100%;
-    display: flex;
-    justify-content: space-around;
+
     padding: 16px;
     font-size: 20px;
     font-weight: bold;
